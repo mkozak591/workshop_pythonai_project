@@ -1,3 +1,3 @@
 # workshop_pythonai_project
-Dominican wokrshop collaboraiton project using python and ai.
-With my group at the Dominican workshop, we created a project where you received concise Youtube search results defined by the user's choice in the amount of likes and results by using the Youtube search engine and ai code. I contributed to the project by helping collect information for the code, and also putting together the presentation. 
+Dominican wokrshop collaboration project using python and ai.
+With my group at the Dominican workshop, we created a project where the user is able to receive concise Youtube search results defined by the user's choice in the maximum number of results and the minimum amount of likes they input. We used python, ChatGPT, and Youtube search engine to print out the search results into a Word document displaying the title, likes, and summary of the video. I contributed to the project by helping collect information through different resources for the code, and also putting together the presentation. 
